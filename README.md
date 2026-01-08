@@ -78,7 +78,7 @@ Excel dataset with cleaned and enriched data
 Interactive dashboard
 Project documentation and analysis report
 
-Authors
+👤 Authors
 
 Delmácio Miguel
 Frederico Mestre
