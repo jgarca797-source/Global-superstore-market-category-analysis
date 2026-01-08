@@ -70,7 +70,7 @@ For a full breakdown of:
 - Strategic recommendations
 - Future improvement opportunities
 
-👉 See Project Report
+👉 See Project Report -> Project Report - Global Superstore - Excell Dashboard.docx
 
 📎 Repository Contents
 
